@@ -1,0 +1,8 @@
+{
+    "name": "book-ui",
+    "buildpacks":[
+        {
+            "url": "heroku/nodejs"
+        }
+    ]
+}
